@@ -1,0 +1,31 @@
+{
+  "greeting": "宝宝！",
+  "name": "生日快乐！",
+  "greetingText": "很庆幸能在最好的年纪遇见最可爱的宝宝",
+  "wishText": "朱颜长似，头上花枝，岁岁年年。愿宝宝青丝不老，岁岁皆欢。",
+  "imagePath": "img/mmexport1743832725208.jpg",
+  "text1": "今天是宝宝的生日啊!!! 4.26",
+  "textInChatBox": "非常非常非常祝宝宝生日快乐！！！很多很多很多的快乐……",
+  "sendButtonLabel": "发送",
+  "text2": "我想给宝宝一个礼物",
+  "text3": "我认真的想了很久",
+  "text4": "我决定，用最近自学的前端技术，给宝宝做个",
+  "text4Adjective": "生日祝福网站",
+  "text5Entry": "因为，",
+  "text5Content": "俺最爱宝宝啦！",
+  "smiley": ":)",
+  "bigTextPart1": "所",
+  "bigTextPart2": "以",
+  "wishHeading": "生日快乐啊!",
+  "outroText": "希望宝宝喜欢这个小小的礼物!",
+  "replayText": "点这里可以再看一次哦!",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Ma Shan Zheng",
+      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+    }
+  ]
+}
+
